@@ -1,0 +1,44 @@
+CustomerID,CustomerName,TelNo,Email,MembershipLevel,MembershipFee,MembershipStartDate,MembershipExpiryDate,SpaTreatmentID,SpaCategory,Description,TreatmentTime,TreatmentCost,BookingDate,BookingTime,TOTALLengthofAppointment,TotalCostAfterDiscount
+620,Customer 1,3xxxxx652,Masud@gsnail.com,,,,,N432,Nail,Pedicure,25,17.5,20220226,10:00,75,82.5
+620,Customer 1,3xxxxx652,Masud@gsnail.com,,,,,F011,Face,Brilliance Facial,50,65,20220226,10:00,75,82.5
+452,Customer 2,2xxxxx345,cs@aoool.com,,,,,B822,Body,Deep Muscle Massage,60,75,20220226,11:30,90,110
+452,Customer 2,2xxxxx345,cs@aoool.com,,,,,W223,Waxing,Full Leg,15,20,20220226,11:30,90,110
+452,Customer 2,2xxxxx345,cs@aoool.com,,,,,N021,Nail,Manicure,15,15,20220226,11:30,90,110
+213,Customer 3,6xxxxx022,FosterMJ@Yahoop.com,,,,,N432,Nail,Pedicure,25,17.5,20220227,09:45,65,52.5
+213,Customer 3,6xxxxx022,FosterMJ@Yahoop.com,,,,,B902,Body,Indian Head Massage,40,35,20220227,09:45,65,52.5
+231,Customer 4,1xxxxx263,wchung@btbt.com,,,,,F011,Face,Brilliance Facial,50,65,20220331,16:00,90,95
+231,Customer 4,1xxxxx263,wchung@btbt.com,,,,,B902,Body,Indian Head Massage,40,35,20220331,16:00,90,95
+542,Customer 5,1xxxxx263,small@gsnail.com,,,,,F011,Face,Brilliance Facial,50,65,20220405,14:30,110,140
+542,Customer 5,1xxxxx263,small@gsnail.com,,,,,B822,Body,Deep Muscle Massage,60,75,20220405,14:30,110,140
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,N432,Nail,Pedicure,25,17.5,20220405,11:00,25,15.75
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,N432,Nail,Pedicure,25,17.5,20220603,15:45,100,74.38
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,F677,Face,Dermaplaning,50,45,20220603,15:45,100,74.38
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,W034,Waxing,Eyebrow Wax,10,5,20220603,15:45,100,74.38
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,W223,Waxing,Full Leg,15,20,20220603,15:45,100,74.38
+213,Customer 3,6xxxxx022,FosterMJ@Yahoop.com,,,,,W223,Waxing,Full Leg,15,20,20220603,11:30,80,80
+213,Customer 3,6xxxxx022,FosterMJ@Yahoop.com,,,,,N021,Nail,Manicure,15,15,20220603,11:30,80,80
+213,Customer 3,6xxxxx022,FosterMJ@Yahoop.com,,,,,F677,Face,Dermaplaning,50,45,20220603,11:30,80,80
+765,Customer 7,5xxxxx123,raabm@btd.com,BRONZE,5,01/01/2022,31/12/2023,F011,Face,Brilliance Facial,50,65,20220608,14:00,70,76
+765,Customer 7,5xxxxx123,raabm@btd.com,BRONZE,5,01/01/2022,31/12/2023,E899,Eye,Lash Tint,10,5,20220608,14:00,70,76
+765,Customer 7,5xxxxx123,raabm@btd.com,BRONZE,5,01/01/2022,31/12/2023,E945,Eye,Lash Lift,10,10,20220608,14:00,70,76
+765,Customer 7,5xxxxx123,raabm@btd.com,BRONZE,5,01/01/2022,31/12/2023,F011,Face,Brilliance Facial,50,65,20220712,11:00,70,76
+765,Customer 7,5xxxxx123,raabm@btd.com,BRONZE,5,01/01/2022,31/12/2023,E899,Eye,Lash Tint,10,5,20220712,11:00,70,76
+765,Customer 7,5xxxxx123,raabm@btd.com,BRONZE,5,01/01/2022,31/12/2023,E945,Eye,Lash Lift,10,10,20220712,11:00,70,76
+776,Customer 8,2xxxxx833,Johnsons@yakkity.com,,,,,F677,Face,Dermaplaning,50,45,20220712,09:30,50,45
+398,Customer 9,0xxxxx182,ppatel@gsnail.com,,,,,N021,Nail,Manicure,15,15,20220712,14:15,65,55
+398,Customer 9,0xxxxx182,ppatel@gsnail.com,,,,,B902,Body,Indian Head Massage,40,35,20220712,14:15,65,55
+398,Customer 9,0xxxxx182,ppatel@gsnail.com,,,,,W034,Waxing,Eyebrow Wax,10,5,20220712,14:15,65,55
+765,Customer 7,5xxxxx123,raabm@btd.com,BRONZE,5,01/01/2022,31/12/2023,F011,Face,Brilliance Facial,50,65,20220810,15:00,60,66.5
+765,Customer 7,5xxxxx123,raabm@btd.com,BRONZE,5,01/01/2022,31/12/2023,W034,Waxing,Eyebrow Wax,10,5,20220810,15:00,60,66.5
+101,Customer 10,0xxxxx182,Jbrown@gmaiy.com,SILVER,10,03/02/2022,02/02/2023,F011,Face,Brilliance Facial,50,65,20220810,09:00,105,108
+101,Customer 10,0xxxxx182,Jbrown@gmaiy.com,SILVER,10,03/02/2022,02/02/2023,B902,Body,Indian Head Massage,40,35,20220810,09:00,105,108
+101,Customer 10,0xxxxx182,Jbrown@gmaiy.com,SILVER,10,03/02/2022,02/02/2023,W223,Waxing,Full Leg,15,20,20220810,09:00,105,108
+101,Customer 10,0xxxxx182,Jbrown@gmaiy.com,SILVER,10,03/02/2022,02/02/2023,F011,Face,Brilliance Facial,50,65,20221015,09:15,120,130.5
+101,Customer 10,0xxxxx182,Jbrown@gmaiy.com,SILVER,10,03/02/2022,02/02/2023,W034,Waxing,Eyebrow Wax,10,5,20221015,09:15,120,130.5
+101,Customer 10,0xxxxx182,Jbrown@gmaiy.com,SILVER,10,03/02/2022,02/02/2023,B822,Body,Deep Muscle Massage,60,75,20221015,09:15,120,130.5
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,N021,Nail,Manicure,15,15,20221015,15:00,75,55.25
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,F677,Face,Dermaplaning,50,45,20221015,15:00,75,55.25
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,W034,Waxing,Eyebrow Wax,10,5,20221015,15:00,75,55.25
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,B167,Body,Hot Stone Massage,90,80,20221216,11:00,130,95.63
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,N432,Nail,Pedicure,25,17.5,20221216,11:00,130,95.63
+212,Customer 6,0xxxxx123,kibsons@yakkity.co.uk,GOLD,15,10/05/2022,09/05/2023,N021,Nail,Manicure,15,15,20221216,11:00,130,95.63
