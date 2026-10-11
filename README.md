@@ -31,7 +31,7 @@ Membership booking comparisons;
 Treatment duration histograms.
 
 These visualisations help identify trends, customer behaviour, and service popularity within the salon dataset.
-## Key Takeaways
+## KEY TAKEAWAYS
 This project helped me develop practical experience in database design, SQL querying, and data visualisation. Through normalising the data, creating relationships between tables, and writing SQL queries, I gained a better understanding of how databases support business operations. If I were to extend the project further, I would create interactive dashboards and expand the database model to support more detailed business analysis. Overall, the project strengthened my SQL, Python, and data analysis skills and gave me valuable experience working with structured data.
 # Disclaimer
 All personal information shown within this repository has been anonymised. This project is shared for portfolio purposes as an example of my database, SQL, and data analysis skills.
